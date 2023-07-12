@@ -16,7 +16,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
-
+- Install PHP Manger for IIS
+- Install Rewrite module for IIS
+- Install microsoft visual c++
+- Install My Sql 5.5.62
+- Install Php zip File
+- Download OS Ticket
+- Install heidi SQL 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
